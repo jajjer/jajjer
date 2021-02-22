@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jajjer
+- 👋 Hi, I’m @jajjer, Jacob Jensen.
 - 📚 I’m currently enrolled in the Web Development course through Practicum by Yandex (Russian Google)
 - 🌱 I’m currently learning advanced JavaScript and Python
-- 💞️ I’m looking to collaborate on projects in healthcare
+- 💞️ I’m looking for opportunities as a Technical Recruiter.
 - 📫 How to reach me shoot me an email jaj.jacob.jensen@gmail.com
 
 <!---
