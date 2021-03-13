@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jajjer, Jacob Jensen.
 - 📚 I’m currently enrolled in the Web Development course through Practicum by Yandex.
-- 🌱 I’m currently learning React JS and Python.
-- 💞️ I’m looking for opportunities as a Junior Front End Developer.
-- 📫 How to reach me shoot me an email jaj.jacob.jensen@gmail.com
+- 🌱 I’m improving my React JS and Python skills.
+- 💻 I’m looking for opportunities as a Junior Front End Developer.
+- 📫 Shoot me an email jaj.jacob.jensen@gmail.com to get in touch.
 
 <!---
 jajjer/jajjer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
